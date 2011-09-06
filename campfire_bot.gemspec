@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email = %q{reddavis@gmail.com}
   s.homepage = %q{http://github.com/reddavis/campfire_bot}
 
-  s.add_dependency "tinder", "~> 1.4.2"
+  s.add_dependency "tinder", "~> 1.6"
 
   # Tinder needs these...
   s.add_dependency "json"
